@@ -1,0 +1,45 @@
+.inputContainer {
+    border: dashed;
+    border-color: rgb(62, 117, 165) !important;
+}
+
+.inputDiv {
+    border: dashed !important;
+    border-color: rgb(185, 213, 238) !important;
+}
+
+.borderGreen {
+    border-color: rgb(59, 134, 59) !important;
+    background-color: rgb(211, 255, 211);
+}
+
+.borderRed {
+    border-color: rgb(209, 34, 34) !important;
+    background-color: rgb(255, 221, 221);
+}
+
+.summaryContainer {
+    max-height: 380px;
+    overflow-y: auto;
+}
+
+.summaryWrapper {
+    max-height: 460px;
+    background-color: rgb(253, 255, 220);
+}
+
+.keyPointWrapper {
+    max-height: 630px;
+    background-color: rgb(213, 227, 255);
+}
+.keyPointerContainer{
+    max-height: 515px;
+    overflow-y: auto;
+}
+
+.transcibeBtn {
+    background-color: rgb(3, 148, 148) !important;
+}
+.matIcon{
+    cursor: pointer;
+}
